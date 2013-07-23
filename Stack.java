@@ -130,7 +130,7 @@ public class Stack implements Iterable<Object> {
 
 		@Override
 		public void set(Object e) {
-			// TODO Auto-generated method stub
+			throw new UnsupportedOperationException();
 			
 		}
 		
